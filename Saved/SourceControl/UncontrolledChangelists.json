@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/gabri/Documents/Unreal Projects/EAgleVehicleSim/Content/__ExternalActors__/LevelPrototyping/Cones/E/H4/ACX1VTNM5QZM1HPIBYFZCO.uasset"
+				"C:/Users/gabri/Documents/Unreal Projects/EAgleVehicleSim/Content/__ExternalActors__/LevelPrototyping/Cones/E/H4/ACX1VTNM5QZM1HPIBYFZCO.uasset",
+				"C:/Users/gabri/Documents/Unreal Projects/EAgleVehicleSim/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.uasset",
+				"C:/Users/gabri/Documents/Unreal Projects/EAgleVehicleSim/Content/LevelPrototyping/Meshes/Cono.uasset",
+				"C:/Users/gabri/Documents/Unreal Projects/EAgleVehicleSim/Content/Track/BP_Track.uasset",
+				"C:/Users/gabri/Documents/Unreal Projects/EAgleVehicleSim/Content/__ExternalActors__/LevelPrototyping/Cones/E/AH/CRI6B36D88YU82YADFJQZC.uasset",
+				"C:/Users/gabri/Documents/Unreal Projects/EAgleVehicleSim/Content/LevelPrototyping/Meshes/ConoOrange.uasset",
+				"C:/Users/gabri/Documents/Unreal Projects/EAgleVehicleSim/Content/__ExternalActors__/LevelPrototyping/Cones/B/JB/RY9T9EXA0QVLMOO7S7OSAW.uasset"
 			]
 		}
 	]
